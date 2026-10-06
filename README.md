@@ -7,10 +7,11 @@ instead of hope.
 
 ### Try something, right now
 
-|   |   |
-|---|---|
-| **[Open Transit Diagram Studio →](https://transit-diagram-studio.vercel.app)** | Runs entirely in your browser. Nothing to install, no sign-up. |
-| **[Download P2PEM →](https://github.com/fibo3090-code/secure-p2p-chat/releases/latest)** | Windows, macOS and Linux installers, v1.16.2. |
+> **[Open Transit Diagram Studio →](https://transit-diagram-studio.vercel.app)**
+> Runs entirely in your browser. Nothing to install, no sign-up, no watermark.
+>
+> **[Download P2PEM →](https://github.com/fibo3090-code/secure-p2p-chat/releases/latest)**
+> Installers for Windows, macOS and Linux — v1.16.2, ten build artefacts.
 
 ---
 
